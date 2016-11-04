@@ -1,0 +1,33 @@
+/* Inserta tu CSS aqui */
+	
+	*{
+	    margin: 6px 4px;
+	}
+	div{
+	    width: 100px;
+	    height: 100px;
+	    background: #7c7c7c;
+	    color: #fff;
+	    font-size: 30px;
+	    border: 1px solid #000000;
+	    
+	}
+	
+	.caja_padre{
+	    width:360px;
+	    height: 116px;
+	    position: relative;
+	    
+	}
+	
+	.caja{
+	    display: inline-block;
+	    margin-left: 7px;
+	
+	}
+	
+	.caja2{
+	    display: inline-block;
+	}
+
+
